@@ -20,24 +20,24 @@ export function Header() {
           <Link href="/menus" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Menu
           </Link>
-          <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
+          <Link href="/ready-meals" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Ready Meals
           </Link>
-          <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
+          {/* <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Student Discount
-          </Link>
-          <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
+          </Link> */}
+          <Link href="/loyalty" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Loyalty
           </Link>
-          <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
+          {/* <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             How to order online
-          </Link>
-          <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
+          </Link> */}
+          {/* <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Reseller Signup
           </Link>
           <Link href="#" className="text-foreground text-sm font-medium hover:text-primary transition-colors">
             Product Allergen Info
-          </Link>
+          </Link> */}
         </div>
       </nav>
     </header>

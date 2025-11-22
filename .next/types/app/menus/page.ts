@@ -1,4 +1,4 @@
-// File: C:\Users\Milli\Downloads\tasty-african-food\app\menus\page.tsx
+// File: C:\Users\Milli\Desktop\zagwe-2.0\app\menus\page.tsx
 import * as entry from '../../../../app/menus/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
